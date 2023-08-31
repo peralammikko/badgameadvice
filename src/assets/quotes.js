@@ -1,0 +1,21 @@
+export const quoteList = [
+    "Do a barrel roll!",
+    "Go home and be a family man",
+    "Rock is big and hurt when throw",
+    "Don't forget to pee, too",
+    "Clothes don't make you look stupid. You make you look stupid",
+    "Paint is not a snack",
+    "Don't waste your time. This world's already doomed",
+    "Keep still to avoid detection by grandpa",
+    "Well done! The planet is disintegrating",
+    "Rub vegetables with aluminum foil for easy peeling",
+    "If you wish someone destroyed, do not hesitate",
+    "Genital visibility doesn't affect your adventure",
+    "Don't pay for drugs, let your friends do that!",
+    "You can't walk through walls",
+    "Do not give up, do not complain and do NOT stay up all night playing!",
+    "Early morning is the time for regretting late-night decisions",
+    "Wallow in your own failure",
+    "Get over the sadness and be honorable ninjas",
+    
+]
